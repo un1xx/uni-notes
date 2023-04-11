@@ -1,2 +1,2 @@
 # uni-notes
-codes I made as notes 
+code I made as notes 
