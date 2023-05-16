@@ -1,8 +1,5 @@
 // insertion sort in c
-// slection sort in c
 
-// bubble sort in C
-// Time complexity = O(n^2)
 #include <stdio.h>
 
 
